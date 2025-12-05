@@ -16,6 +16,6 @@ fs_internal_packages/
 
 # Varios
 __pycache__
-
+*:Zone.Identifier
 
 
