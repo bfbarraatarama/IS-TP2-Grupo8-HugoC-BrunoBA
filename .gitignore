@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+
+# Airflow
+airflow_home/*
+!airflow_home/dags/
+!airflow_home/dags/**
+
+# DBT
+target/
+logs/
+dbt_packages/
+dbt_modules/
+dbt_internal_packages/
+fs_internal_packages/
+
+# Varios
+__pycache__
+
+
+
